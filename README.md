@@ -1,9 +1,9 @@
-# T20 Cricket World Cup Data Analysis using Power BI
+# 📌 T20 Cricket World Cup Data Analysis using Power BI
 
-# Project Overview
+# 📝 Project Overview
 This project focuses on analyzing T20 Cricket World Cup data using Power BI. The analysis provides insights into various performance metrics, such as the odds of players, team wins, average bowling statistics, and runs scored by batsmen. The aim is to leverage data to generate actionable insights and create visually engaging reports.
 
-# Key Features
+# ✨ Key Features
 Odds of Players: Analyzing player performance to understand their contribution and match-winning probability.
 Team Wins Analysis: Visualizing the number of matches and tournaments won by each team.
 Bowler's Performance: Calculating average bowling economy, strike rate, and wickets taken.
@@ -13,21 +13,21 @@ Player of the Tournament analysis.
 Head-to-head team performance comparison.
 Match-winning partnerships.
 
-# Interactive Dashboards: 
+# 📊 Interactive Dashboards: 
 Power BI dashboards provide dynamic filtering and slicing for exploring the data interactively.
 Dataset Information
 The project uses a dataset that includes the following key columns:
 
-# Datasets
+# 🏷️ Datasets
 Match Details: Match ID, teams, venue,date.
 Player Stats: Player name, runs, balls faced, wickets, overs bowled, economy rate.
 Team Performance: Team name, total runs scored, wickets lost, match result.
 Tournament Data: Year, group stage data, semi-final and final results.
 
-# Tools Used
+# 🔧 Tools Used
 Power BI: For Dat gathering,data cleaning,data visualization and effective dashboards
 
-# project workflow 
+# 🛠️ project workflow 
 Step 1: Data Preprocessing
 Gather the dataset (in .csv or .xlsx format).
 Ensure the dataset is clean and formatted. Some preprocessing tasks:
